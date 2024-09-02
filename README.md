@@ -10,7 +10,7 @@ Welcome to my GitHub profile!
 
 ## 💻 My Projects
 
-You'll find a collection of projects I've worked on, each representing a step in my academic learning journey.
+You'll find a collection of projects I've worked on during my academic learning journey!
 
 ## 📈 Goals
 
